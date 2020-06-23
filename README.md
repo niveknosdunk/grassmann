@@ -13,3 +13,6 @@ RP2.m: generate random points on the surface RP^2 embedded in R^4.
 RP2iso.m: generate random points on the surface RP^2 isometrically embedded in R^5.
 
 The output .txt files of these three .m files can then be passed to Eirene, Ripser, or another software package for computing Vietoris-Rips persistence.
+
+g24_5000schubertcorrect.txt: 5000 points on G_2(R^4) computed using g24schubert.m
+
