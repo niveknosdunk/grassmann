@@ -16,3 +16,5 @@ The output .txt files of these three .m files can then be passed to Eirene, Rips
 
 g24_5000schubertcorrect.txt: 5000 points on G_2(R^4) computed using g24schubert.m
 
+g24_landmarks-correct.txt: 100 landmark points such that the resulting witness complex computes the correct homology of G_2(R^4)
+
