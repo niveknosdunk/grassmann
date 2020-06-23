@@ -8,9 +8,9 @@ These two files also include code to compute persistence in MATLAB using the Jav
 
 SO3.m: generate random 3 x 3 orthogonal matrices of determinant 1. This space, SO(3), is diffeomorphic to RP^3 = G_1(R^4).
 
-RP2.m: generate random points on the surface RP^2 embedded in R^4.
+rp2.m: generate random points on the surface RP^2 embedded in R^4.
 
-RP2iso.m: generate random points on the surface RP^2 isometrically embedded in R^5.
+rp2iso.m: generate random points on the surface RP^2 isometrically embedded in R^5.
 
 The output .txt files of these three .m files can then be passed to Eirene, Ripser, or another software package for computing Vietoris-Rips persistence.
 
